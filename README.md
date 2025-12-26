@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreber</h1>
-<h3 align="center">🇨🇦</h3>
+<h3 align="center"><img width="240" height="240" alt="flag-canada_1f1e8-1f1e6" src="https://github.com/user-attachments/assets/a8945d61-f8b0-4186-9dcb-eb5bbb320a27" />
+</h3>
 
 <p align="left">
 </p>
